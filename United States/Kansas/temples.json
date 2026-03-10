@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Wichita Kansas Temple",
-    "state":  "Kansas",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Wichita Kansas Temple",
+    "state": "Kansas",
+    "latitude": 37.709722,
+    "longitude": -97.263889,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
