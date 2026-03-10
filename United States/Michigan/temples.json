@@ -1,20 +1,20 @@
-﻿[
+[
     {
-        "name":  "Detroit Michigan Temple",
-        "state":  "Michigan",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Detroit Michigan Temple",
+        "state": "Michigan",
+        "latitude": 42.554444,
+        "longitude": -83.246667,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Grand Rapids Michigan Temple",
-        "state":  "Michigan",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Grand Rapids Michigan Temple",
+        "state": "Michigan",
+        "latitude": 42.955000,
+        "longitude": -85.693333,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
