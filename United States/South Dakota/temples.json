@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Rapid City South Dakota Temple",
-    "state":  "South Dakota",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Rapid City South Dakota Temple",
+    "state": "South Dakota",
+    "latitude": 44.080833,
+    "longitude": -103.231111,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
