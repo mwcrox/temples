@@ -5,8 +5,8 @@
         "latitude":  33.674623,
         "longitude":  -86.821236,
         "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "imageUrl":  "birmingham_temple.jpeg",
+        "sourceUrl":  "https://www.churchofjesuschrist.org/media/collection/birmingham-alabama-temple-images?lang=eng"
     },
     {
         "name":  "Huntsville Alabama Temple",
@@ -18,4 +18,5 @@
         "sourceUrl":  ""
     }
 ]
+
 
