@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Indianapolis Indiana Temple",
-    "state":  "Indiana",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Indianapolis Indiana Temple",
+    "state": "Indiana",
+    "latitude": 39.957778,
+    "longitude": -86.216944,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
