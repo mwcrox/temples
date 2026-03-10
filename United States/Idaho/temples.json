@@ -1,101 +1,101 @@
-﻿[
+[
     {
-        "name":  "Boise Idaho Temple",
-        "state":  "Idaho",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Boise Idaho Temple",
+        "state": "Idaho",
+        "latitude": 43.569167,
+        "longitude": -116.273056,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Burley Idaho Temple",
-        "state":  "Idaho",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Burley Idaho Temple",
+        "state": "Idaho",
+        "latitude": 42.535000,
+        "longitude": -113.792778,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Caldwell Idaho Temple",
-        "state":  "Idaho",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Caldwell Idaho Temple",
+        "state": "Idaho",
+        "latitude": 43.678056,
+        "longitude": -116.687222,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Coeur d\u0027Alene Idaho Temple",
-        "state":  "Idaho",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Coeur d'Alene Idaho Temple",
+        "state": "Idaho",
+        "latitude": 47.746944,
+        "longitude": -116.786944,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Idaho Falls Idaho Temple",
-        "state":  "Idaho",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Idaho Falls Idaho Temple",
+        "state": "Idaho",
+        "latitude": 43.499167,
+        "longitude": -112.040556,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Meridian Idaho Temple",
-        "state":  "Idaho",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Meridian Idaho Temple",
+        "state": "Idaho",
+        "latitude": 43.600833,
+        "longitude": -116.394722,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Montpelier Idaho Temple",
-        "state":  "Idaho",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Montpelier Idaho Temple",
+        "state": "Idaho",
+        "latitude": 42.322778,
+        "longitude": -111.299444,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Pocatello Idaho Temple",
-        "state":  "Idaho",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Pocatello Idaho Temple",
+        "state": "Idaho",
+        "latitude": 42.879444,
+        "longitude": -112.429722,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Rexburg Idaho Temple",
-        "state":  "Idaho",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Rexburg Idaho Temple",
+        "state": "Idaho",
+        "latitude": 43.818056,
+        "longitude": -111.781111,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Teton River Idaho Temple",
-        "state":  "Idaho",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Teton River Idaho Temple",
+        "state": "Idaho",
+        "latitude": null,
+        "longitude": null,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Twin Falls Idaho Temple",
-        "state":  "Idaho",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Twin Falls Idaho Temple",
+        "state": "Idaho",
+        "latitude": 42.570833,
+        "longitude": -114.460556,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
