@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Bentonville Arkansas Temple",
-    "state":  "Arkansas",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Bentonville Arkansas Temple",
+    "state": "Arkansas",
+    "latitude": 36.38479,
+    "longitude": -94.18275,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
