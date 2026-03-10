@@ -1,38 +1,38 @@
-﻿[
+[
     {
-        "name":  "Honolulu Hawaii Temple",
-        "state":  "Hawaii",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Honolulu Hawaii Temple",
+        "state": "Hawaii",
+        "latitude": 21.333611,
+        "longitude": -157.869444,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Kahului Hawaii Temple",
-        "state":  "Hawaii",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Kahului Hawaii Temple",
+        "state": "Hawaii",
+        "latitude": null,
+        "longitude": null,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Kona Hawaii Temple",
-        "state":  "Hawaii",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Kona Hawaii Temple",
+        "state": "Hawaii",
+        "latitude": 19.640833,
+        "longitude": -155.996944,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Laie Hawaii Temple",
-        "state":  "Hawaii",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Laie Hawaii Temple",
+        "state": "Hawaii",
+        "latitude": 21.641944,
+        "longitude": -157.922778,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
