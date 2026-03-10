@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Portland Maine Temple",
-    "state":  "Maine",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Portland Maine Temple",
+    "state": "Maine",
+    "latitude": 43.631667,
+    "longitude": -70.287222,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
