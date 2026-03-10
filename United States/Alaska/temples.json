@@ -2,8 +2,8 @@
     {
         "name":  "Anchorage Alaska Temple",
         "state":  "Alaska",
-        "latitude":  null,
-        "longitude":  null,
+        "latitude":  61.101627,
+        "longitude":  -149.840512,
         "visitStatus":  "Not Visited",
         "imageUrl":  "",
         "sourceUrl":  ""
@@ -18,3 +18,4 @@
         "sourceUrl":  ""
     }
 ]
+
