@@ -5,8 +5,8 @@
         "latitude":  61.101627,
         "longitude":  -149.840512,
         "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "imageUrl":  "anchorage_temple.jpeg",
+        "sourceUrl":  "https://www.churchofjesuschrist.org/media/collection/anchorage-alaska-temple-images?lang=eng"
     },
     {
         "name":  "Fairbanks Alaska Temple",
@@ -18,4 +18,5 @@
         "sourceUrl":  ""
     }
 ]
+
 
