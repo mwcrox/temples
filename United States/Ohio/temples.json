@@ -1,29 +1,29 @@
-﻿[
+[
     {
-        "name":  "Cincinnati Ohio Temple",
-        "state":  "Ohio",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Cincinnati Ohio Temple",
+        "state": "Ohio",
+        "latitude": 39.290833,
+        "longitude": -84.300278,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Cleveland Ohio Temple",
-        "state":  "Ohio",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Cleveland Ohio Temple",
+        "state": "Ohio",
+        "latitude": 41.314722,
+        "longitude": -81.520833,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Columbus Ohio Temple",
-        "state":  "Ohio",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Columbus Ohio Temple",
+        "state": "Ohio",
+        "latitude": 40.117778,
+        "longitude": -83.115000,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
