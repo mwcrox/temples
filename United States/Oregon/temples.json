@@ -1,29 +1,29 @@
-﻿[
+[
     {
-        "name":  "Medford Oregon Temple",
-        "state":  "Oregon",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Medford Oregon Temple",
+        "state": "Oregon",
+        "latitude": 42.372778,
+        "longitude": -122.874167,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Portland Oregon Temple",
-        "state":  "Oregon",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Portland Oregon Temple",
+        "state": "Oregon",
+        "latitude": 45.442500,
+        "longitude": -122.771111,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Willamette Valley Oregon Temple",
-        "state":  "Oregon",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Willamette Valley Oregon Temple",
+        "state": "Oregon",
+        "latitude": null,
+        "longitude": null,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
