@@ -1,20 +1,20 @@
-﻿[
+[
     {
-        "name":  "Oklahoma City Oklahoma Temple",
-        "state":  "Oklahoma",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Oklahoma City Oklahoma Temple",
+        "state": "Oklahoma",
+        "latitude": 35.639167,
+        "longitude": -97.566389,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Tulsa Oklahoma Temple",
-        "state":  "Oklahoma",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Tulsa Oklahoma Temple",
+        "state": "Oklahoma",
+        "latitude": 36.048333,
+        "longitude": -95.970000,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
