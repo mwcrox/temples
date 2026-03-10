@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Hartford Connecticut Temple",
-    "state":  "Connecticut",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Hartford Connecticut Temple",
+    "state": "Connecticut",
+    "latitude": 41.719722,
+    "longitude": -72.830278,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
