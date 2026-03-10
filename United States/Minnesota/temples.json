@@ -1,9 +1,9 @@
-﻿{
-    "name":  "St. Paul Minnesota Temple",
-    "state":  "Minnesota",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "St. Paul Minnesota Temple",
+    "state": "Minnesota",
+    "latitude": 44.947222,
+    "longitude": -92.956111,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
