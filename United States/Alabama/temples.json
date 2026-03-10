@@ -2,8 +2,8 @@
     {
         "name":  "Birmingham Alabama Temple",
         "state":  "Alabama",
-        "latitude":  null,
-        "longitude":  null,
+        "latitude":  33.674623,
+        "longitude":  -86.821236,
         "visitStatus":  "Not Visited",
         "imageUrl":  "",
         "sourceUrl":  ""
@@ -18,3 +18,4 @@
         "sourceUrl":  ""
     }
 ]
+
