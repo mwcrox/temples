@@ -1,20 +1,20 @@
-﻿[
+[
     {
-        "name":  "Charlotte North Carolina Temple",
-        "state":  "North Carolina",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Charlotte North Carolina Temple",
+        "state": "North Carolina",
+        "latitude": 35.136667,
+        "longitude": -80.944444,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Raleigh North Carolina Temple",
-        "state":  "North Carolina",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Raleigh North Carolina Temple",
+        "state": "North Carolina",
+        "latitude": 35.906944,
+        "longitude": -78.689167,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
