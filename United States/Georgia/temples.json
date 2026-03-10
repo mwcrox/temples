@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Atlanta Georgia Temple",
-    "state":  "Georgia",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Atlanta Georgia Temple",
+    "state": "Georgia",
+    "latitude": 33.924722,
+    "longitude": -84.352222,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
