@@ -1,83 +1,83 @@
-﻿[
+[
     {
-        "name":  "Flagstaff Arizona Temple",
-        "state":  "Arizona",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Flagstaff Arizona Temple",
+        "state": "Arizona",
+        "latitude": null,
+        "longitude": null,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Gila Valley Arizona Temple",
-        "state":  "Arizona",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Gila Valley Arizona Temple",
+        "state": "Arizona",
+        "latitude": 32.955012,
+        "longitude": -109.824029,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Gilbert Arizona Temple",
-        "state":  "Arizona",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Gilbert Arizona Temple",
+        "state": "Arizona",
+        "latitude": 33.291853,
+        "longitude": -111.742994,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Mesa Arizona Temple",
-        "state":  "Arizona",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Mesa Arizona Temple",
+        "state": "Arizona",
+        "latitude": 33.412743,
+        "longitude": -111.831074,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Phoenix Arizona Temple",
-        "state":  "Arizona",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Phoenix Arizona Temple",
+        "state": "Arizona",
+        "latitude": 33.687495,
+        "longitude": -112.125929,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Queen Creek Arizona Temple",
-        "state":  "Arizona",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Queen Creek Arizona Temple",
+        "state": "Arizona",
+        "latitude": 33.248870,
+        "longitude": -111.622184,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Snowflake Arizona Temple",
-        "state":  "Arizona",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Snowflake Arizona Temple",
+        "state": "Arizona",
+        "latitude": 34.513560,
+        "longitude": -110.078640,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Tucson Arizona Temple",
-        "state":  "Arizona",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Tucson Arizona Temple",
+        "state": "Arizona",
+        "latitude": 32.284376,
+        "longitude": -110.992801,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Yuma Arizona Temple",
-        "state":  "Arizona",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Yuma Arizona Temple",
+        "state": "Arizona",
+        "latitude": null,
+        "longitude": null,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
