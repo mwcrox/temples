@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Boston Massachusetts Temple",
-    "state":  "Massachusetts",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Boston Massachusetts Temple",
+    "state": "Massachusetts",
+    "latitude": 42.395000,
+    "longitude": -71.176667,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
