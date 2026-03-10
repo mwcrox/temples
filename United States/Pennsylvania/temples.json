@@ -1,29 +1,29 @@
-﻿[
+[
     {
-        "name":  "Harrisburg Pennsylvania Temple",
-        "state":  "Pennsylvania",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Harrisburg Pennsylvania Temple",
+        "state": "Pennsylvania",
+        "latitude": 40.356111,
+        "longitude": -76.960556,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Philadelphia Pennsylvania Temple",
-        "state":  "Pennsylvania",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Philadelphia Pennsylvania Temple",
+        "state": "Pennsylvania",
+        "latitude": 39.958611,
+        "longitude": -75.170000,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Pittsburgh Pennsylvania Temple",
-        "state":  "Pennsylvania",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Pittsburgh Pennsylvania Temple",
+        "state": "Pennsylvania",
+        "latitude": 40.440833,
+        "longitude": -80.018889,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
