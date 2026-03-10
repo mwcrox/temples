@@ -1,110 +1,110 @@
-﻿[
+[
     {
-        "name":  "Bakersfield California Temple",
-        "state":  "California",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Bakersfield California Temple",
+        "state": "California",
+        "latitude": 35.383694,
+        "longitude": -119.018677,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Feather River California Temple",
-        "state":  "California",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Feather River California Temple",
+        "state": "California",
+        "latitude": null,
+        "longitude": null,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Fresno California Temple",
-        "state":  "California",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Fresno California Temple",
+        "state": "California",
+        "latitude": 36.859722,
+        "longitude": -119.833889,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Los Angeles California Temple",
-        "state":  "California",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Los Angeles California Temple",
+        "state": "California",
+        "latitude": 34.052222,
+        "longitude": -118.443889,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Modesto California Temple",
-        "state":  "California",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Modesto California Temple",
+        "state": "California",
+        "latitude": null,
+        "longitude": null,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Newport Beach California Temple",
-        "state":  "California",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Newport Beach California Temple",
+        "state": "California",
+        "latitude": 33.641944,
+        "longitude": -117.832500,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Oakland California Temple",
-        "state":  "California",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Oakland California Temple",
+        "state": "California",
+        "latitude": 37.808889,
+        "longitude": -122.236111,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Redlands California Temple",
-        "state":  "California",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Redlands California Temple",
+        "state": "California",
+        "latitude": 34.030556,
+        "longitude": -117.145000,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Sacramento California Temple",
-        "state":  "California",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Sacramento California Temple",
+        "state": "California",
+        "latitude": 38.783056,
+        "longitude": -121.267222,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "San Diego California Temple",
-        "state":  "California",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "San Diego California Temple",
+        "state": "California",
+        "latitude": 32.873333,
+        "longitude": -117.228889,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Sunnyvale California Temple",
-        "state":  "California",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Sunnyvale California Temple",
+        "state": "California",
+        "latitude": null,
+        "longitude": null,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Yorba Linda California Temple",
-        "state":  "California",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Yorba Linda California Temple",
+        "state": "California",
+        "latitude": null,
+        "longitude": null,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
