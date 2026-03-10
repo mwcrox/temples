@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Washington D.C. Temple",
-    "state":  "Maryland",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Washington D.C. Temple",
+    "state": "Maryland",
+    "latitude": 39.036111,
+    "longitude": -77.072778,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
