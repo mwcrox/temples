@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Milwaukee Wisconsin Temple",
-    "state":  "Wisconsin",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Milwaukee Wisconsin Temple",
+    "state": "Wisconsin",
+    "latitude": 43.060556,
+    "longitude": -88.106389,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
