@@ -1,38 +1,38 @@
-﻿[
+[
     {
-        "name":  "Colorado Springs Colorado Temple",
-        "state":  "Colorado",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Colorado Springs Colorado Temple",
+        "state": "Colorado",
+        "latitude": 38.931667,
+        "longitude": -104.800556,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Denver Colorado Temple",
-        "state":  "Colorado",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Denver Colorado Temple",
+        "state": "Colorado",
+        "latitude": 39.613889,
+        "longitude": -104.872222,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Fort Collins Colorado Temple",
-        "state":  "Colorado",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Fort Collins Colorado Temple",
+        "state": "Colorado",
+        "latitude": 40.531944,
+        "longitude": -105.021389,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Grand Junction Colorado Temple",
-        "state":  "Colorado",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Grand Junction Colorado Temple",
+        "state": "Colorado",
+        "latitude": 39.091389,
+        "longitude": -108.550556,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
