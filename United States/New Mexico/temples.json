@@ -1,20 +1,20 @@
-﻿[
+[
     {
-        "name":  "Albuquerque New Mexico Temple",
-        "state":  "New Mexico",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Albuquerque New Mexico Temple",
+        "state": "New Mexico",
+        "latitude": 35.138889,
+        "longitude": -106.497222,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Farmington New Mexico Temple",
-        "state":  "New Mexico",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Farmington New Mexico Temple",
+        "state": "New Mexico",
+        "latitude": 36.755000,
+        "longitude": -108.166111,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
