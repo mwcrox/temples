@@ -1,38 +1,38 @@
-﻿[
+[
     {
-        "name":  "Norfolk Virginia Temple",
-        "state":  "Virginia",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Norfolk Virginia Temple",
+        "state": "Virginia",
+        "latitude": 36.876944,
+        "longitude": -76.295000,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Richmond Virginia Temple",
-        "state":  "Virginia",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Richmond Virginia Temple",
+        "state": "Virginia",
+        "latitude": 37.676944,
+        "longitude": -77.560833,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Roanoke Virginia Temple",
-        "state":  "Virginia",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Roanoke Virginia Temple",
+        "state": "Virginia",
+        "latitude": null,
+        "longitude": null,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Winchester Virginia Temple",
-        "state":  "Virginia",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Winchester Virginia Temple",
+        "state": "Virginia",
+        "latitude": 39.167500,
+        "longitude": -78.188056,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
