@@ -1,92 +1,92 @@
-﻿[
+[
     {
-        "name":  "Austin Texas Temple",
-        "state":  "Texas",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Austin Texas Temple",
+        "state": "Texas",
+        "latitude": 30.401389,
+        "longitude": -97.751944,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Dallas Texas Temple",
-        "state":  "Texas",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Dallas Texas Temple",
+        "state": "Texas",
+        "latitude": 32.909167,
+        "longitude": -96.784722,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "El Paso Texas Temple",
-        "state":  "Texas",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "El Paso Texas Temple",
+        "state": "Texas",
+        "latitude": 31.789444,
+        "longitude": -106.337778,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Fairview Texas Temple",
-        "state":  "Texas",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Fairview Texas Temple",
+        "state": "Texas",
+        "latitude": 33.139444,
+        "longitude": -96.606111,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Fort Bend Texas Temple",
-        "state":  "Texas",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Fort Bend Texas Temple",
+        "state": "Texas",
+        "latitude": 29.563333,
+        "longitude": -95.680000,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Fort Worth Texas Temple",
-        "state":  "Texas",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Fort Worth Texas Temple",
+        "state": "Texas",
+        "latitude": 32.683889,
+        "longitude": -97.423056,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Houston Texas Temple",
-        "state":  "Texas",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Houston Texas Temple",
+        "state": "Texas",
+        "latitude": 29.622222,
+        "longitude": -95.639167,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Lubbock Texas Temple",
-        "state":  "Texas",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Lubbock Texas Temple",
+        "state": "Texas",
+        "latitude": 33.475000,
+        "longitude": -101.923056,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "McAllen Texas Temple",
-        "state":  "Texas",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "McAllen Texas Temple",
+        "state": "Texas",
+        "latitude": 26.225000,
+        "longitude": -98.241667,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "San Antonio Texas Temple",
-        "state":  "Texas",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "San Antonio Texas Temple",
+        "state": "Texas",
+        "latitude": 29.574444,
+        "longitude": -98.637222,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
