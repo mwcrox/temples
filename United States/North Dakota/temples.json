@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Bismarck North Dakota Temple",
-    "state":  "North Dakota",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Bismarck North Dakota Temple",
+    "state": "North Dakota",
+    "latitude": 46.839444,
+    "longitude": -100.783611,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
