@@ -1,29 +1,29 @@
-﻿[
+[
     {
-        "name":  "Casper Wyoming Temple",
-        "state":  "Wyoming",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Casper Wyoming Temple",
+        "state": "Wyoming",
+        "latitude": 42.827222,
+        "longitude": -106.312500,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Cody Wyoming Temple",
-        "state":  "Wyoming",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Cody Wyoming Temple",
+        "state": "Wyoming",
+        "latitude": 44.515278,
+        "longitude": -109.056944,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Star Valley Wyoming Temple",
-        "state":  "Wyoming",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Star Valley Wyoming Temple",
+        "state": "Wyoming",
+        "latitude": 43.158056,
+        "longitude": -111.033889,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
