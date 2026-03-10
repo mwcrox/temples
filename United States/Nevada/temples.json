@@ -1,38 +1,38 @@
-﻿[
+[
     {
-        "name":  "Elko Nevada Temple",
-        "state":  "Nevada",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Elko Nevada Temple",
+        "state": "Nevada",
+        "latitude": 40.832778,
+        "longitude": -115.763611,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Las Vegas Nevada Temple",
-        "state":  "Nevada",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Las Vegas Nevada Temple",
+        "state": "Nevada",
+        "latitude": 36.174444,
+        "longitude": -115.022778,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Lone Mountain Nevada Temple",
-        "state":  "Nevada",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Lone Mountain Nevada Temple",
+        "state": "Nevada",
+        "latitude": 36.246667,
+        "longitude": -115.315000,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Reno Nevada Temple",
-        "state":  "Nevada",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Reno Nevada Temple",
+        "state": "Nevada",
+        "latitude": 39.489444,
+        "longitude": -119.878056,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
