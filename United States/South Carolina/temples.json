@@ -1,20 +1,20 @@
-﻿[
+[
     {
-        "name":  "Columbia South Carolina Temple",
-        "state":  "South Carolina",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Columbia South Carolina Temple",
+        "state": "South Carolina",
+        "latitude": 34.106389,
+        "longitude": -80.957222,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Greenville South Carolina Temple",
-        "state":  "South Carolina",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Greenville South Carolina Temple",
+        "state": "South Carolina",
+        "latitude": 34.867778,
+        "longitude": -82.339444,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
