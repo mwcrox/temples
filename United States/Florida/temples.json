@@ -1,47 +1,47 @@
-﻿[
+[
     {
-        "name":  "Fort Lauderdale Florida Temple",
-        "state":  "Florida",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Fort Lauderdale Florida Temple",
+        "state": "Florida",
+        "latitude": 26.023694,
+        "longitude": -80.374028,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Jacksonville Florida Temple",
-        "state":  "Florida",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Jacksonville Florida Temple",
+        "state": "Florida",
+        "latitude": 30.137972,
+        "longitude": -81.635889,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Orlando Florida Temple",
-        "state":  "Florida",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Orlando Florida Temple",
+        "state": "Florida",
+        "latitude": 28.523056,
+        "longitude": -81.465556,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Tallahassee Florida Temple",
-        "state":  "Florida",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Tallahassee Florida Temple",
+        "state": "Florida",
+        "latitude": null,
+        "longitude": null,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Tampa Florida Temple",
-        "state":  "Florida",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Tampa Florida Temple",
+        "state": "Florida",
+        "latitude": 27.913889,
+        "longitude": -82.334722,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
