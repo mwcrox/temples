@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Summit New Jersey Temple",
-    "state":  "New Jersey",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Summit New Jersey Temple",
+    "state": "New Jersey",
+    "latitude": 40.714722,
+    "longitude": -74.357222,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
