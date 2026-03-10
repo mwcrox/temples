@@ -1,0 +1,29 @@
+﻿[
+    {
+        "name":  "Harrisburg Pennsylvania Temple",
+        "state":  "Pennsylvania",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Philadelphia Pennsylvania Temple",
+        "state":  "Pennsylvania",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Pittsburgh Pennsylvania Temple",
+        "state":  "Pennsylvania",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    }
+]

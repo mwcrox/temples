@@ -1,0 +1,20 @@
+﻿[
+    {
+        "name":  "Manhattan New York Temple",
+        "state":  "New York",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Palmyra New York Temple",
+        "state":  "New York",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    }
+]

@@ -1,0 +1,29 @@
+﻿[
+    {
+        "name":  "Casper Wyoming Temple",
+        "state":  "Wyoming",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Cody Wyoming Temple",
+        "state":  "Wyoming",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Star Valley Wyoming Temple",
+        "state":  "Wyoming",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    }
+]

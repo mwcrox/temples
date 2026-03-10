@@ -1,0 +1,29 @@
+﻿[
+    {
+        "name":  "Kansas City Missouri Temple",
+        "state":  "Missouri",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Springfield Missouri Temple",
+        "state":  "Missouri",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "St. Louis Missouri Temple",
+        "state":  "Missouri",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    }
+]

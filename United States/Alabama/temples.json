@@ -1,0 +1,20 @@
+﻿[
+    {
+        "name":  "Birmingham Alabama Temple",
+        "state":  "Alabama",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Huntsville Alabama Temple",
+        "state":  "Alabama",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    }
+]

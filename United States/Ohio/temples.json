@@ -1,0 +1,29 @@
+﻿[
+    {
+        "name":  "Cincinnati Ohio Temple",
+        "state":  "Ohio",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Cleveland Ohio Temple",
+        "state":  "Ohio",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Columbus Ohio Temple",
+        "state":  "Ohio",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    }
+]

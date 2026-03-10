@@ -1,0 +1,20 @@
+﻿[
+    {
+        "name":  "Anchorage Alaska Temple",
+        "state":  "Alaska",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Fairbanks Alaska Temple",
+        "state":  "Alaska",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    }
+]

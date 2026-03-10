@@ -1,0 +1,20 @@
+﻿[
+    {
+        "name":  "Oklahoma City Oklahoma Temple",
+        "state":  "Oklahoma",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Tulsa Oklahoma Temple",
+        "state":  "Oklahoma",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    }
+]

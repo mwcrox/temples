@@ -1,0 +1,29 @@
+﻿[
+    {
+        "name":  "Knoxville Tennessee Temple",
+        "state":  "Tennessee",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Memphis Tennessee Temple",
+        "state":  "Tennessee",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    },
+    {
+        "name":  "Nashville Tennessee Temple",
+        "state":  "Tennessee",
+        "latitude":  null,
+        "longitude":  null,
+        "visitStatus":  "Not Visited",
+        "imageUrl":  "",
+        "sourceUrl":  ""
+    }
+]
