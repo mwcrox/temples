@@ -1,9 +1,9 @@
-﻿{
-    "name":  "Louisville Kentucky Temple",
-    "state":  "Kentucky",
-    "latitude":  null,
-    "longitude":  null,
-    "visitStatus":  "Not Visited",
-    "imageUrl":  "",
-    "sourceUrl":  ""
+{
+    "name": "Louisville Kentucky Temple",
+    "state": "Kentucky",
+    "latitude": 38.327222,
+    "longitude": -85.472778,
+    "visitStatus": "Not Visited",
+    "imageUrl": "",
+    "sourceUrl": ""
 }
