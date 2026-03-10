@@ -1,20 +1,20 @@
-﻿[
+[
     {
-        "name":  "Chicago Illinois Temple",
-        "state":  "Illinois",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Chicago Illinois Temple",
+        "state": "Illinois",
+        "latitude": 42.168056,
+        "longitude": -87.881944,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     },
     {
-        "name":  "Nauvoo Illinois Temple",
-        "state":  "Illinois",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Nauvoo Illinois Temple",
+        "state": "Illinois",
+        "latitude": 40.550278,
+        "longitude": -91.384722,
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
