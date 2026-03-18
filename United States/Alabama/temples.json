@@ -1,22 +1,20 @@
 ﻿[
     {
-        "name":  "Birmingham Alabama Temple",
-        "state":  "Alabama",
-        "latitude":  33.674623,
-        "longitude":  -86.821236,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "birmingham_temple.jpeg",
-        "sourceUrl":  "https://www.churchofjesuschrist.org/media/collection/birmingham-alabama-temple-images?lang=eng"
+        "name": "Birmingham Alabama Temple",
+        "state": "Alabama",
+        "city": "Birmingham",
+        "address": "1927 Mt Olive Blvd, Gardendale, AL 35071",
+        "visitStatus": "Not Visited",
+        "imageUrl": "birmingham_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/birmingham-alabama-temple-images?lang=eng"
     },
     {
-        "name":  "Huntsville Alabama Temple",
-        "state":  "Alabama",
-        "latitude":  null,
-        "longitude":  null,
-        "visitStatus":  "Not Visited",
-        "imageUrl":  "",
-        "sourceUrl":  ""
+        "name": "Huntsville Alabama Temple",
+        "state": "Alabama",
+        "city": "Huntsville",
+        "address": "Huntsville, Alabama",
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
     }
 ]
-
-
