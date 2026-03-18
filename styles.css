@@ -3,7 +3,7 @@
 }
 
 :root {
-    --bg: #f6f7fb;
+    --bg: #f3f4f6;
     --card: #ffffff;
     --text: #1f2937;
     --muted: #6b7280;
@@ -50,7 +50,7 @@ a:hover {
 }
 
 .container {
-    width: min(1100px, 92%);
+    width: min(1200px, 94%);
     margin: 2rem auto;
 }
 
@@ -65,31 +65,7 @@ a:hover {
 
 .map-note {
     color: var(--muted);
-    margin-bottom: 1.25rem;
-}
-
-.states-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 12px;
-}
-
-.state-link {
-    display: block;
-    padding: 0.9rem 1rem;
-    text-align: center;
-    background: #eff6ff;
-    border: 1px solid #bfdbfe;
-    border-radius: 10px;
-    font-weight: bold;
-    color: #1e3a8a;
-    transition: transform 0.15s ease, background 0.15s ease;
-}
-
-.state-link:hover {
-    background: #dbeafe;
-    transform: translateY(-2px);
-    text-decoration: none;
+    margin-bottom: 1rem;
 }
 
 .back-link {
@@ -202,6 +178,128 @@ a:hover {
     color: var(--muted);
 }
 
+/* ===== Responsive Map Wrapper ===== */
+
+.map-wrapper {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.cmm-usa {
+    display: none;
+    margin: 0 auto;
+    position: relative;
+    padding: 10px;
+    width: 100%;
+    max-width: 100%;
+}
+
+.cmm-usa svg {
+    width: 100%;
+    height: auto;
+    display: block;
+    z-index: 99;
+}
+
+.cmm-usa svg path {
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.cmm-usa-title {
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 0.75rem;
+}
+
+.cmm-usa-hover-state-info {
+    position: relative;
+    margin: 1rem auto 0 auto;
+    display: none;
+    box-sizing: border-box;
+    padding: 0.75em;
+    width: min(320px, 90%);
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 0 20px #999;
+    font-size: 14px;
+    z-index: 100;
+}
+
+.cmm-usa-hover-state-info span {
+    display: block;
+    line-height: 1.5em;
+}
+
+.cmm-usa-hover-state-info span:first-child {
+    font-weight: bold;
+    text-align: center;
+}
+
+.cmm-usa-listview {
+    width: 100%;
+    text-align: center;
+    margin: 1em 0;
+}
+
+.cmm-usa-listview ul {
+    vertical-align: top;
+    list-style: none;
+    display: inline-block;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.cmm-usa-listview ul li {
+    padding: 0;
+    margin: 0;
+}
+
+.cmm-usa-listview ul li span {
+    display: inline-block;
+    position: relative;
+    height: 12px;
+    width: 12px;
+    border-radius: 12px;
+    color: black;
+    text-align: center;
+    line-height: 12px;
+    font-weight: bold;
+    border: 1px solid #999;
+    opacity: 1;
+    margin-right: 0.5em;
+}
+
+.cmm-usa-listview ul li span::after {
+    content: "\2B9E";
+    position: relative;
+    color: #333;
+    font-size: 12px;
+}
+
+.cmm-usa-listview ul li a {
+    display: inline-block;
+    margin: 0.5em 1em 0.5em 0;
+    color: #ccc;
+    text-decoration: none;
+}
+
+.cmm-usa-listview ul li a.cmm-usa-live-link {
+    color: #000;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.cmm-usa-credit-link {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+/* Mobile improvements */
 @media (max-width: 768px) {
     .temple-card {
         grid-template-columns: 1fr;
@@ -213,5 +311,41 @@ a:hover {
 
     .temple-image-wrap {
         min-height: 200px;
+    }
+
+    .map-section,
+    .state-section {
+        padding: 1rem;
+    }
+
+    .cmm-usa {
+        padding: 0;
+    }
+
+    .cmm-usa-title {
+        font-size: 1rem;
+    }
+
+    .cmm-usa svg text {
+        font-size: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .site-header {
+        padding: 1.5rem 1rem;
+    }
+
+    .site-header h1 {
+        font-size: 1.8rem;
+    }
+
+    .cmm-usa-hover-state-info {
+        width: 95%;
+        font-size: 13px;
+    }
+
+    .cmm-usa svg text {
+        font-size: 7px;
     }
 }
