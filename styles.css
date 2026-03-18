@@ -349,3 +349,26 @@ a:hover {
         font-size: 7px;
     }
 }
+
+.international-link-wrap {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.international-link {
+    display: inline-block;
+    padding: 0.9rem 1.4rem;
+    border-radius: 10px;
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    color: #1e3a8a;
+    font-weight: bold;
+    text-decoration: none;
+    transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.international-link:hover {
+    background: #dbeafe;
+    transform: translateY(-2px);
+    text-decoration: none;
+}
