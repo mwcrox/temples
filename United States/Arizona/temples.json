@@ -2,8 +2,8 @@
     {
         "name": "Flagstaff Arizona Temple",
         "state": "Arizona",
-        "latitude": null,
-        "longitude": null,
+        "city": "Flagstaff",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Gila Valley Arizona Temple",
         "state": "Arizona",
-        "latitude": 32.955012,
-        "longitude": -109.824029,
+        "city": "Central",
+        "address": "5291 West Highway 70, Central, AZ 85531",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "Gilbert Arizona Temple",
         "state": "Arizona",
-        "latitude": 33.291853,
-        "longitude": -111.742994,
+        "city": "Gilbert",
+        "address": "3301 S Greenfield Rd, Gilbert, AZ 85297",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -29,8 +29,8 @@
     {
         "name": "Mesa Arizona Temple",
         "state": "Arizona",
-        "latitude": 33.412743,
-        "longitude": -111.831074,
+        "city": "Mesa",
+        "address": "101 S LeSueur, Mesa, AZ 85204",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -38,17 +38,17 @@
     {
         "name": "Phoenix Arizona Temple",
         "state": "Arizona",
-        "latitude": 33.687495,
-        "longitude": -112.125929,
-        "visitStatus": "Not Visited",
+        "city": "Phoenix",
+        "address": "5220 W Pinnacle Peak Rd, Phoenix, AZ 85310",
+        "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
     },
     {
         "name": "Queen Creek Arizona Temple",
         "state": "Arizona",
-        "latitude": 33.248870,
-        "longitude": -111.622184,
+        "city": "Queen Creek",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -56,8 +56,8 @@
     {
         "name": "Snowflake Arizona Temple",
         "state": "Arizona",
-        "latitude": 34.513560,
-        "longitude": -110.078640,
+        "city": "Snowflake",
+        "address": "1875 W Canyon Dr, Snowflake, AZ 85937",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -65,8 +65,8 @@
     {
         "name": "Tucson Arizona Temple",
         "state": "Arizona",
-        "latitude": 32.284376,
-        "longitude": -110.992801,
+        "city": "Tucson",
+        "address": "7281 North Skyline Dr, Tucson, AZ 85718",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -74,8 +74,8 @@
     {
         "name": "Yuma Arizona Temple",
         "state": "Arizona",
-        "latitude": null,
-        "longitude": null,
+        "city": "Yuma",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

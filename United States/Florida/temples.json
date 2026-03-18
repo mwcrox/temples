@@ -4,7 +4,7 @@
         "state": "Florida",
         "latitude": 26.023694,
         "longitude": -80.374028,
-        "visitStatus": "Not Visited",
+        "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
     },
@@ -22,7 +22,7 @@
         "state": "Florida",
         "latitude": 28.523056,
         "longitude": -81.465556,
-        "visitStatus": "Not Visited",
+        "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
     },

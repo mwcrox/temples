@@ -1,9 +1,11 @@
-{
-    "name": "Bentonville Arkansas Temple",
-    "state": "Arkansas",
-    "latitude": 36.38479,
-    "longitude": -94.18275,
-    "visitStatus": "Not Visited",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "Bentonville Arkansas Temple",
+        "state": "Arkansas",
+        "city": "Bentonville",
+        "address": "1105 McCollum Dr, Bentonville, AR 72712",
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

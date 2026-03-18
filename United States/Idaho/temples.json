@@ -40,7 +40,7 @@
         "state": "Idaho",
         "latitude": 43.499167,
         "longitude": -112.040556,
-        "visitStatus": "Not Visited",
+        "visitStatus": "Grounds Only",
         "imageUrl": "",
         "sourceUrl": ""
     },
@@ -76,7 +76,7 @@
         "state": "Idaho",
         "latitude": 43.818056,
         "longitude": -111.781111,
-        "visitStatus": "Not Visited",
+        "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
     },
