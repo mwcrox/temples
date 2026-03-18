@@ -2,8 +2,8 @@
     {
         "name": "Bountiful Utah Temple",
         "state": "Utah",
-        "latitude": 40.889444,
-        "longitude": -111.859722,
+        "city": "Bountiful",
+        "address": "640 S Bountiful Blvd, Bountiful, UT 84010",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Brigham City Utah Temple",
         "state": "Utah",
-        "latitude": 41.512778,
-        "longitude": -112.015000,
+        "city": "Brigham City",
+        "address": "250 S Main St, Brigham City, UT 84302",
         "visitStatus": "Grounds Only",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "Cedar City Utah Temple",
         "state": "Utah",
-        "latitude": 37.677778,
-        "longitude": -113.061111,
+        "city": "Cedar City",
+        "address": "280 South Cove Dr, Cedar City, UT 84720",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -29,8 +29,8 @@
     {
         "name": "Deseret Peak Utah Temple",
         "state": "Utah",
-        "latitude": 40.589444,
-        "longitude": -112.298056,
+        "city": "Tooele",
+        "address": "2401 N 400 W, Tooele, UT 84074",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -38,8 +38,8 @@
     {
         "name": "Draper Utah Temple",
         "state": "Utah",
-        "latitude": 40.493333,
-        "longitude": -111.839167,
+        "city": "Draper",
+        "address": "14065 Canyon Vista Ln, Draper, UT 84020",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -47,8 +47,8 @@
     {
         "name": "Ephraim Utah Temple",
         "state": "Utah",
-        "latitude": 39.359444,
-        "longitude": -111.586111,
+        "city": "Ephraim",
+        "address": "200 N 400 E, Ephraim, UT 84627",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -56,8 +56,8 @@
     {
         "name": "Heber Valley Utah Temple",
         "state": "Utah",
-        "latitude": 40.495833,
-        "longitude": -111.401944,
+        "city": "Heber Valley",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -65,8 +65,8 @@
     {
         "name": "Jordan River Utah Temple",
         "state": "Utah",
-        "latitude": 40.566944,
-        "longitude": -111.938056,
+        "city": "South Jordan",
+        "address": "10200 S Temple Drive, South Jordan, UT 84095",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -74,8 +74,8 @@
     {
         "name": "Layton Utah Temple",
         "state": "Utah",
-        "latitude": 41.074167,
-        "longitude": -111.948056,
+        "city": "Layton",
+        "address": "1400 Oak Hills Dr, Layton, UT 84040",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -83,8 +83,8 @@
     {
         "name": "Lehi Utah Temple",
         "state": "Utah",
-        "latitude": 40.391944,
-        "longitude": -111.850833,
+        "city": "Lehi",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -92,8 +92,8 @@
     {
         "name": "Lindon Utah Temple",
         "state": "Utah",
-        "latitude": 40.343889,
-        "longitude": -111.718889,
+        "city": "Lindon",
+        "address": "850 East Center Street, Lindon, UT 84042",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -101,8 +101,8 @@
     {
         "name": "Logan Utah Temple",
         "state": "Utah",
-        "latitude": 41.735556,
-        "longitude": -111.833889,
+        "city": "Logan",
+        "address": "175 N 300 E, Logan, UT 84321",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -110,8 +110,8 @@
     {
         "name": "Manti Utah Temple",
         "state": "Utah",
-        "latitude": 39.268889,
-        "longitude": -111.636944,
+        "city": "Manti",
+        "address": "200 E 510 N, Manti, UT 84642",
         "visitStatus": "Grounds Only",
         "imageUrl": "",
         "sourceUrl": ""
@@ -119,8 +119,8 @@
     {
         "name": "Monticello Utah Temple",
         "state": "Utah",
-        "latitude": 37.871944,
-        "longitude": -109.342500,
+        "city": "Monticello",
+        "address": "365 N Main St, Monticello, UT 84535",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -128,8 +128,8 @@
     {
         "name": "Mount Timpanogos Utah Temple",
         "state": "Utah",
-        "latitude": 40.389167,
-        "longitude": -111.755000,
+        "city": "American Fork",
+        "address": "742 N 900 E, American Fork, UT 84003",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -137,8 +137,8 @@
     {
         "name": "Ogden Utah Temple",
         "state": "Utah",
-        "latitude": 41.223056,
-        "longitude": -111.973889,
+        "city": "Ogden",
+        "address": "350 22nd St, Ogden, UT 84401",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -146,8 +146,8 @@
     {
         "name": "Oquirrh Mountain Utah Temple",
         "state": "Utah",
-        "latitude": 40.541667,
-        "longitude": -112.020000,
+        "city": "South Jordan",
+        "address": "11022 S 4000 W, South Jordan, UT 84009",
         "visitStatus": "Grounds Only",
         "imageUrl": "",
         "sourceUrl": ""
@@ -155,8 +155,8 @@
     {
         "name": "Orem Utah Temple",
         "state": "Utah",
-        "latitude": 40.297222,
-        "longitude": -111.694444,
+        "city": "Orem",
+        "address": "1451 S 1100 W, Orem, UT 84058",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -164,8 +164,8 @@
     {
         "name": "Payson Utah Temple",
         "state": "Utah",
-        "latitude": 40.044167,
-        "longitude": -111.732778,
+        "city": "Payson",
+        "address": "1494 S 930 W, Payson, UT 84651",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -173,8 +173,8 @@
     {
         "name": "Price Utah Temple",
         "state": "Utah",
-        "latitude": 39.606944,
-        "longitude": -110.819167,
+        "city": "Price",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -182,8 +182,8 @@
     {
         "name": "Provo City Center Temple",
         "state": "Utah",
-        "latitude": 40.233611,
-        "longitude": -111.658889,
+        "city": "Provo",
+        "address": "50 South University Ave, Provo, UT 84601",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -191,8 +191,8 @@
     {
         "name": "Provo Utah Rock Canyon Temple",
         "state": "Utah",
-        "latitude": 40.269167,
-        "longitude": -111.632222,
+        "city": "Provo",
+        "address": "2200 Temple Hill Dr, Provo, UT 84604",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -200,8 +200,8 @@
     {
         "name": "Red Cliffs Utah Temple",
         "state": "Utah",
-        "latitude": 37.089444,
-        "longitude": -113.525833,
+        "city": "St. George",
+        "address": "1555 S Red Cliffs Temple Ln, St. George, UT 84790",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -209,8 +209,8 @@
     {
         "name": "Salt Lake Temple",
         "state": "Utah",
-        "latitude": 40.770556,
-        "longitude": -111.891111,
+        "city": "Salt Lake City",
+        "address": "50 N Temple, Salt Lake City, UT 84150",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -218,8 +218,8 @@
     {
         "name": "Saratoga Springs Utah Temple",
         "state": "Utah",
-        "latitude": 40.347500,
-        "longitude": -111.904444,
+        "city": "Saratoga Springs",
+        "address": "987 South Ensign Drive, Saratoga Springs, UT 84045",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -227,8 +227,8 @@
     {
         "name": "Smithfield Utah Temple",
         "state": "Utah",
-        "latitude": 41.838889,
-        "longitude": -111.833333,
+        "city": "Smithfield",
+        "address": "755 West 100 North, Smithfield, UT 84335",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -236,8 +236,8 @@
     {
         "name": "Spanish Fork Utah Temple",
         "state": "Utah",
-        "latitude": 40.106111,
-        "longitude": -111.654444,
+        "city": "Spanish Fork",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -245,8 +245,8 @@
     {
         "name": "St. George Utah Temple",
         "state": "Utah",
-        "latitude": 37.105278,
-        "longitude": -113.577222,
+        "city": "St. George",
+        "address": "250 E 400 S, St. George, UT 84770",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -254,8 +254,8 @@
     {
         "name": "Syracuse Utah Temple",
         "state": "Utah",
-        "latitude": 41.089722,
-        "longitude": -112.064444,
+        "city": "Syracuse",
+        "address": "1098 South 2500 West, Syracuse, UT 84075",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -263,8 +263,8 @@
     {
         "name": "Taylorsville Utah Temple",
         "state": "Utah",
-        "latitude": 40.667500,
-        "longitude": -111.938333,
+        "city": "Taylorsville",
+        "address": "2603 W 4700 S, Taylorsville, UT 84129",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -272,8 +272,8 @@
     {
         "name": "Vernal Utah Temple",
         "state": "Utah",
-        "latitude": 40.455833,
-        "longitude": -109.528056,
+        "city": "Vernal",
+        "address": "170 S 500 W, Vernal, UT 84078",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -281,8 +281,8 @@
     {
         "name": "West Jordan Utah Temple",
         "state": "Utah",
-        "latitude": 40.587778,
-        "longitude": -112.032778,
+        "city": "West Jordan",
+        "address": "Not Announced",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""

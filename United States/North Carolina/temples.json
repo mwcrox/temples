@@ -2,8 +2,8 @@
     {
         "name": "Charlotte North Carolina Temple",
         "state": "North Carolina",
-        "latitude": 35.136667,
-        "longitude": -80.944444,
+        "city": "Charlotte",
+        "address": "13925 Thompson Rd, Charlotte, NC 28273",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Raleigh North Carolina Temple",
         "state": "North Carolina",
-        "latitude": 35.906944,
-        "longitude": -78.689167,
+        "city": "Apex",
+        "address": "574 Bryan Dr, Apex, NC 27502",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

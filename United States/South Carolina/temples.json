@@ -2,8 +2,8 @@
     {
         "name": "Columbia South Carolina Temple",
         "state": "South Carolina",
-        "latitude": 34.106389,
-        "longitude": -80.957222,
+        "city": "Columbia",
+        "address": "2905 Trotter Rd, Columbia, SC 29203",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Greenville South Carolina Temple",
         "state": "South Carolina",
-        "latitude": 34.867778,
-        "longitude": -82.339444,
+        "city": "Taylors",
+        "address": "1300 Rutherford Rd, Taylors, SC 29687",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

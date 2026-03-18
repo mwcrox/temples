@@ -2,8 +2,8 @@
     {
         "name": "Detroit Michigan Temple",
         "state": "Michigan",
-        "latitude": 42.554444,
-        "longitude": -83.246667,
+        "city": "Bloomfield Hills",
+        "address": "25225 Telegraph Rd, Bloomfield Hills, MI 48302",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Grand Rapids Michigan Temple",
         "state": "Michigan",
-        "latitude": 42.955000,
-        "longitude": -85.693333,
+        "city": "Grand Rapids",
+        "address": "4000 28th St SE, Grand Rapids, MI 49512",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

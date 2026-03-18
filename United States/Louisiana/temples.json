@@ -1,9 +1,11 @@
-{
-    "name": "Baton Rouge Louisiana Temple",
-    "state": "Louisiana",
-    "latitude": 30.414444,
-    "longitude": -91.050278,
-    "visitStatus": "Not Visited",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "Baton Rouge Louisiana Temple",
+        "state": "Louisiana",
+        "city": "Baton Rouge",
+        "address": "10333 Highland Rd, Baton Rouge, LA 70810",
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

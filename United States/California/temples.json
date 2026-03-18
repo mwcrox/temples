@@ -2,8 +2,8 @@
     {
         "name": "Bakersfield California Temple",
         "state": "California",
-        "latitude": 35.383694,
-        "longitude": -119.018677,
+        "city": "Bakersfield",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Feather River California Temple",
         "state": "California",
-        "latitude": null,
-        "longitude": null,
+        "city": "Yuba City",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "Fresno California Temple",
         "state": "California",
-        "latitude": 36.859722,
-        "longitude": -119.833889,
+        "city": "Fresno",
+        "address": "1123 E Alluvial Ave, Fresno, CA 93720",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -29,8 +29,8 @@
     {
         "name": "Los Angeles California Temple",
         "state": "California",
-        "latitude": 34.052222,
-        "longitude": -118.443889,
+        "city": "Los Angeles",
+        "address": "10777 Santa Monica Blvd, Los Angeles, CA 90025",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -38,8 +38,8 @@
     {
         "name": "Modesto California Temple",
         "state": "California",
-        "latitude": null,
-        "longitude": null,
+        "city": "Modesto",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -47,8 +47,8 @@
     {
         "name": "Newport Beach California Temple",
         "state": "California",
-        "latitude": 33.641944,
-        "longitude": -117.832500,
+        "city": "Newport Beach",
+        "address": "2300 Bonita Canyon Dr, Newport Beach, CA 92660",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -56,8 +56,8 @@
     {
         "name": "Oakland California Temple",
         "state": "California",
-        "latitude": 37.808889,
-        "longitude": -122.236111,
+        "city": "Oakland",
+        "address": "4770 Lincoln Ave, Oakland, CA 94602",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -65,8 +65,8 @@
     {
         "name": "Redlands California Temple",
         "state": "California",
-        "latitude": 34.030556,
-        "longitude": -117.145000,
+        "city": "Redlands",
+        "address": "1761 Fifth Ave, Redlands, CA 92374",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -74,8 +74,8 @@
     {
         "name": "Sacramento California Temple",
         "state": "California",
-        "latitude": 38.783056,
-        "longitude": -121.267222,
+        "city": "Rancho Cordova",
+        "address": "2110 California Cir, Rancho Cordova, CA 95742",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -83,8 +83,8 @@
     {
         "name": "San Diego California Temple",
         "state": "California",
-        "latitude": 32.873333,
-        "longitude": -117.228889,
+        "city": "San Diego",
+        "address": "7474 Charmant Dr, San Diego, CA 92122",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -92,8 +92,8 @@
     {
         "name": "Sunnyvale California Temple",
         "state": "California",
-        "latitude": null,
-        "longitude": null,
+        "city": "Sunnyvale",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -101,8 +101,8 @@
     {
         "name": "Yorba Linda California Temple",
         "state": "California",
-        "latitude": null,
-        "longitude": null,
+        "city": "Yorba Linda",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

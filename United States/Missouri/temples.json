@@ -2,8 +2,8 @@
     {
         "name": "Kansas City Missouri Temple",
         "state": "Missouri",
-        "latitude": 39.267778,
-        "longitude": -94.469444,
+        "city": "Kansas City",
+        "address": "7001 Searcy Creek Pkwy, Kansas City, MO 64119",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Springfield Missouri Temple",
         "state": "Missouri",
-        "latitude": 37.137222,
-        "longitude": -93.298056,
+        "city": "Springfield",
+        "address": "2720 E Farm Rd 188, Springfield, MO 65809",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "St. Louis Missouri Temple",
         "state": "Missouri",
-        "latitude": 38.642778,
-        "longitude": -90.505556,
+        "city": "Town and Country",
+        "address": "12555 N Outer Forty Rd, Town and Country, MO 63017",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

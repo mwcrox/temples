@@ -1,9 +1,11 @@
-{
-    "name": "Winter Quarters Nebraska Temple",
-    "state": "Nebraska",
-    "latitude": 41.334444,
-    "longitude": -95.962222,
-    "visitStatus": "Not Visited",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "Winter Quarters Nebraska Temple",
+        "state": "Nebraska",
+        "city": "Omaha",
+        "address": "8283 N 34th St, Omaha, NE 68112",
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

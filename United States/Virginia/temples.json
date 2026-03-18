@@ -2,8 +2,8 @@
     {
         "name": "Norfolk Virginia Temple",
         "state": "Virginia",
-        "latitude": 36.876944,
-        "longitude": -76.295000,
+        "city": "Norfolk",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Richmond Virginia Temple",
         "state": "Virginia",
-        "latitude": 37.676944,
-        "longitude": -77.560833,
+        "city": "Glen Allen",
+        "address": "10915 Staples Mill Rd, Glen Allen, VA 23060",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "Roanoke Virginia Temple",
         "state": "Virginia",
-        "latitude": null,
-        "longitude": null,
+        "city": "Roanoke",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -29,8 +29,8 @@
     {
         "name": "Winchester Virginia Temple",
         "state": "Virginia",
-        "latitude": 39.167500,
-        "longitude": -78.188056,
+        "city": "Winchester",
+        "address": "200 Merrimans Lane, Winchester, VA 22602",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

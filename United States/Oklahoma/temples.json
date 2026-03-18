@@ -2,8 +2,8 @@
     {
         "name": "Oklahoma City Oklahoma Temple",
         "state": "Oklahoma",
-        "latitude": 35.639167,
-        "longitude": -97.566389,
+        "city": "Yukon",
+        "address": "12030 N Mustang Rd, Yukon, OK 73099",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Tulsa Oklahoma Temple",
         "state": "Oklahoma",
-        "latitude": 36.048333,
-        "longitude": -95.970000,
+        "city": "Jenks",
+        "address": "12210 S 119th E Ave, Jenks, OK 74037",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

@@ -2,8 +2,8 @@
     {
         "name": "Elko Nevada Temple",
         "state": "Nevada",
-        "latitude": 40.832778,
-        "longitude": -115.763611,
+        "city": "Elko",
+        "address": "740 5th St, Elko, NV 89801",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Las Vegas Nevada Temple",
         "state": "Nevada",
-        "latitude": 36.174444,
-        "longitude": -115.022778,
+        "city": "Las Vegas",
+        "address": "827 Temple View Dr, Las Vegas, NV 89110",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "Lone Mountain Nevada Temple",
         "state": "Nevada",
-        "latitude": 36.246667,
-        "longitude": -115.315000,
+        "city": "Las Vegas",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -29,8 +29,8 @@
     {
         "name": "Reno Nevada Temple",
         "state": "Nevada",
-        "latitude": 39.489444,
-        "longitude": -119.878056,
+        "city": "Reno",
+        "address": "2200 Temple Hill Dr, Reno, NV 89523",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

@@ -1,9 +1,11 @@
-{
-    "name": "Atlanta Georgia Temple",
-    "state": "Georgia",
-    "latitude": 33.924722,
-    "longitude": -84.352222,
-    "visitStatus": "Grounds Only",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "Atlanta Georgia Temple",
+        "state": "Georgia",
+        "city": "Sandy Springs",
+        "address": "6450 Barfield Rd NE, Sandy Springs, GA 30328",
+        "visitStatus": "Grounds Only",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

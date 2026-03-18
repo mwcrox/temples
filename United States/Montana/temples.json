@@ -2,8 +2,8 @@
     {
         "name": "Billings Montana Temple",
         "state": "Montana",
-        "latitude": 45.794444,
-        "longitude": -108.550833,
+        "city": "Billings",
+        "address": "3100 Rim Point Dr, Billings, MT 59102",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Helena Montana Temple",
         "state": "Montana",
-        "latitude": 46.603889,
-        "longitude": -111.985833,
+        "city": "Helena",
+        "address": "3310 Wylie Dr, Helena, MT 59602",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "Missoula Montana Temple",
         "state": "Montana",
-        "latitude": null,
-        "longitude": null,
+        "city": "Missoula",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

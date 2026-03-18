@@ -2,8 +2,8 @@
     {
         "name": "Knoxville Tennessee Temple",
         "state": "Tennessee",
-        "latitude": 35.914444,
-        "longitude": -84.091944,
+        "city": "Knoxville",
+        "address": "801 S Gay St, Knoxville, TN 37902",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Memphis Tennessee Temple",
         "state": "Tennessee",
-        "latitude": 35.052222,
-        "longitude": -89.843889,
+        "city": "Bartlett",
+        "address": "2766 Kirby Whitten Rd, Bartlett, TN 38134",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "Nashville Tennessee Temple",
         "state": "Tennessee",
-        "latitude": 36.030556,
-        "longitude": -86.782500,
+        "city": "Franklin",
+        "address": "1100 Gray Fox Ln, Franklin, TN 37069",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

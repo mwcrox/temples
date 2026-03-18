@@ -1,9 +1,11 @@
-{
-    "name": "St. Paul Minnesota Temple",
-    "state": "Minnesota",
-    "latitude": 44.947222,
-    "longitude": -92.956111,
-    "visitStatus": "Not Visited",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "St. Paul Minnesota Temple",
+        "state": "Minnesota",
+        "city": "Oakdale",
+        "address": "3800 Manning Ave N, Oakdale, MN 55128",
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

@@ -1,9 +1,11 @@
-{
-    "name": "Hartford Connecticut Temple",
-    "state": "Connecticut",
-    "latitude": 41.719722,
-    "longitude": -72.830278,
-    "visitStatus": "Not Visited",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "Hartford Connecticut Temple",
+        "state": "Connecticut",
+        "city": "Farmington",
+        "address": "2 Central Way, Farmington, CT 06032",
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

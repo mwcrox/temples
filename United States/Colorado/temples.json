@@ -2,8 +2,8 @@
     {
         "name": "Colorado Springs Colorado Temple",
         "state": "Colorado",
-        "latitude": 38.931667,
-        "longitude": -104.800556,
+        "city": "Colorado Springs",
+        "address": "8710 Lexington Dr, Colorado Springs, CO 80920",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Denver Colorado Temple",
         "state": "Colorado",
-        "latitude": 39.613889,
-        "longitude": -104.872222,
+        "city": "Centennial",
+        "address": "2001 E Phillips Cir, Centennial, CO 80122",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "Fort Collins Colorado Temple",
         "state": "Colorado",
-        "latitude": 40.531944,
-        "longitude": -105.021389,
+        "city": "Fort Collins",
+        "address": "2180 Majestic Dr, Fort Collins, CO 80528",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -29,8 +29,8 @@
     {
         "name": "Grand Junction Colorado Temple",
         "state": "Colorado",
-        "latitude": 39.091389,
-        "longitude": -108.550556,
+        "city": "Grand Junction",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

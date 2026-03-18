@@ -2,8 +2,8 @@
     {
         "name": "Albuquerque New Mexico Temple",
         "state": "New Mexico",
-        "latitude": 35.138889,
-        "longitude": -106.497222,
+        "city": "Albuquerque",
+        "address": "10300 San Francisco Rd NE, Albuquerque, NM 87122",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Farmington New Mexico Temple",
         "state": "New Mexico",
-        "latitude": 36.755000,
-        "longitude": -108.166111,
+        "city": "Farmington",
+        "address": "4400 College Blvd, Farmington, NM 87402",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

@@ -2,8 +2,8 @@
     {
         "name": "Medford Oregon Temple",
         "state": "Oregon",
-        "latitude": 42.372778,
-        "longitude": -122.874167,
+        "city": "Central Point",
+        "address": "2760 Biddle Rd, Central Point, OR 97502",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Portland Oregon Temple",
         "state": "Oregon",
-        "latitude": 45.442500,
-        "longitude": -122.771111,
+        "city": "Lake Oswego",
+        "address": "13600 Kruse Oaks Blvd, Lake Oswego, OR 97035",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "Willamette Valley Oregon Temple",
         "state": "Oregon",
-        "latitude": null,
-        "longitude": null,
+        "city": "Willamette Valley",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

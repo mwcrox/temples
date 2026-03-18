@@ -2,8 +2,8 @@
     {
         "name": "Austin Texas Temple",
         "state": "Texas",
-        "latitude": 30.401389,
-        "longitude": -97.751944,
+        "city": "Cedar Park",
+        "address": "9800 N Lake Creek Pkwy, Cedar Park, TX 78613",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Dallas Texas Temple",
         "state": "Texas",
-        "latitude": 32.909167,
-        "longitude": -96.784722,
+        "city": "Dallas",
+        "address": "6363 Willow Ln, Dallas, TX 75230",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "El Paso Texas Temple",
         "state": "Texas",
-        "latitude": 31.789444,
-        "longitude": -106.337778,
+        "city": "El Paso",
+        "address": "12000 St Francis Dr, El Paso, TX 79936",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -29,8 +29,8 @@
     {
         "name": "Fairview Texas Temple",
         "state": "Texas",
-        "latitude": 33.139444,
-        "longitude": -96.606111,
+        "city": "Fairview",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -38,8 +38,8 @@
     {
         "name": "Fort Bend Texas Temple",
         "state": "Texas",
-        "latitude": 29.563333,
-        "longitude": -95.680000,
+        "city": "Richmond",
+        "address": "14000 Old Richmond Rd, Richmond, TX 77469",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -47,8 +47,8 @@
     {
         "name": "Fort Worth Texas Temple",
         "state": "Texas",
-        "latitude": 32.683889,
-        "longitude": -97.423056,
+        "city": "Fort Worth",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -56,8 +56,8 @@
     {
         "name": "Houston Texas Temple",
         "state": "Texas",
-        "latitude": 29.622222,
-        "longitude": -95.639167,
+        "city": "Houston",
+        "address": "15725 Champion Forest Dr, Houston, TX 77069",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -65,8 +65,8 @@
     {
         "name": "Lubbock Texas Temple",
         "state": "Texas",
-        "latitude": 33.475000,
-        "longitude": -101.923056,
+        "city": "Lubbock",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -74,8 +74,8 @@
     {
         "name": "McAllen Texas Temple",
         "state": "Texas",
-        "latitude": 26.225000,
-        "longitude": -98.241667,
+        "city": "McAllen",
+        "address": "1200 Trenton Rd, McAllen, TX 78504",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -83,8 +83,8 @@
     {
         "name": "San Antonio Texas Temple",
         "state": "Texas",
-        "latitude": 29.574444,
-        "longitude": -98.637222,
+        "city": "San Antonio",
+        "address": "20080 Stone Oak Pkwy, San Antonio, TX 78258",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

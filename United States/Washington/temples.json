@@ -2,8 +2,8 @@
     {
         "name": "Columbia River Washington Temple",
         "state": "Washington",
-        "latitude": 46.211667,
-        "longitude": -119.137222,
+        "city": "Richland",
+        "address": "300 Gage Blvd, Richland, WA 99352",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Moses Lake Washington Temple",
         "state": "Washington",
-        "latitude": 47.121944,
-        "longitude": -119.289722,
+        "city": "Moses Lake",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "Seattle Washington Temple",
         "state": "Washington",
-        "latitude": 47.564722,
-        "longitude": -122.180278,
+        "city": "Bellevue",
+        "address": "2808 148th Ave SE, Bellevue, WA 98007",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -29,8 +29,8 @@
     {
         "name": "Spokane Washington Temple",
         "state": "Washington",
-        "latitude": 47.616944,
-        "longitude": -117.360556,
+        "city": "Spokane",
+        "address": "13710 E 40th Ave, Spokane, WA 99206",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -38,8 +38,8 @@
     {
         "name": "Tacoma Washington Temple",
         "state": "Washington",
-        "latitude": 47.038889,
-        "longitude": -122.900000,
+        "city": "Yelm",
+        "address": "4000 23rd Ave SE, Yelm, WA 98597",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -47,8 +47,8 @@
     {
         "name": "Vancouver Washington Temple",
         "state": "Washington",
-        "latitude": 45.642778,
-        "longitude": -122.625000,
+        "city": "Vancouver",
+        "address": "16225 SE 20th St, Vancouver, WA 98683",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

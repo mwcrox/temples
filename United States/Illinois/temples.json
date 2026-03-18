@@ -2,8 +2,8 @@
     {
         "name": "Chicago Illinois Temple",
         "state": "Illinois",
-        "latitude": 42.168056,
-        "longitude": -87.881944,
+        "city": "Glenview",
+        "address": "4151 W Lake Ave, Glenview, IL 60026",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Nauvoo Illinois Temple",
         "state": "Illinois",
-        "latitude": 40.550278,
-        "longitude": -91.384722,
+        "city": "Nauvoo",
+        "address": "50 N Wells St, Nauvoo, IL 62354",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""

@@ -1,9 +1,11 @@
-{
-    "name": "Des Moines Iowa Temple",
-    "state": "Iowa",
-    "latitude": 41.673056,
-    "longitude": -93.697500,
-    "visitStatus": "Not Visited",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "Des Moines Iowa Temple",
+        "state": "Iowa",
+        "city": "Johnston",
+        "address": "9900 NW 62nd Ave, Johnston, IA 50131",
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

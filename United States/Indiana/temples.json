@@ -1,9 +1,11 @@
-{
-    "name": "Indianapolis Indiana Temple",
-    "state": "Indiana",
-    "latitude": 39.957778,
-    "longitude": -86.216944,
-    "visitStatus": "Grounds Only",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "Indianapolis Indiana Temple",
+        "state": "Indiana",
+        "city": "Carmel",
+        "address": "11443 N Michigan Rd, Carmel, IN 46032",
+        "visitStatus": "Grounds Only",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

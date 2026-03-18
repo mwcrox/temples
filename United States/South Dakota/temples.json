@@ -1,9 +1,11 @@
-{
-    "name": "Rapid City South Dakota Temple",
-    "state": "South Dakota",
-    "latitude": 44.080833,
-    "longitude": -103.231111,
-    "visitStatus": "Not Visited",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "Rapid City South Dakota Temple",
+        "state": "South Dakota",
+        "city": "Rapid City",
+        "address": "1035 Cambria St, Rapid City, SD 57701",
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

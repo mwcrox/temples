@@ -1,9 +1,11 @@
-{
-    "name": "Summit New Jersey Temple",
-    "state": "New Jersey",
-    "latitude": 40.714722,
-    "longitude": -74.357222,
-    "visitStatus": "Not Visited",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "Summit New Jersey Temple",
+        "state": "New Jersey",
+        "city": "Summit",
+        "address": "1450 Springfield Ave, Summit, NJ 07901",
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

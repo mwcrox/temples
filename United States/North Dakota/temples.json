@@ -1,9 +1,11 @@
-{
-    "name": "Bismarck North Dakota Temple",
-    "state": "North Dakota",
-    "latitude": 46.839444,
-    "longitude": -100.783611,
-    "visitStatus": "Not Visited",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "Bismarck North Dakota Temple",
+        "state": "North Dakota",
+        "city": "Bismarck",
+        "address": "2930 Calgary Ave, Bismarck, ND 58503",
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

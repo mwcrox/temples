@@ -1,9 +1,11 @@
-{
-    "name": "Portland Maine Temple",
-    "state": "Maine",
-    "latitude": 43.631667,
-    "longitude": -70.287222,
-    "visitStatus": "Not Visited",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "Portland Maine Temple",
+        "state": "Maine",
+        "city": "Cumberland Center",
+        "address": "15 Skyview Dr, Cumberland Center, ME 04021",
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

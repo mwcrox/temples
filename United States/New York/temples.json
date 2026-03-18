@@ -2,8 +2,8 @@
     {
         "name": "Manhattan New York Temple",
         "state": "New York",
-        "latitude": 40.773889,
-        "longitude": -73.981667,
+        "city": "New York",
+        "address": "125 Columbus Ave, New York, NY 10023",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Palmyra New York Temple",
         "state": "New York",
-        "latitude": 43.052778,
-        "longitude": -77.231944,
+        "city": "Palmyra",
+        "address": "2720 Temple Rd, Palmyra, NY 14522",
         "visitStatus": "Visited",
         "imageUrl": "",
         "sourceUrl": ""

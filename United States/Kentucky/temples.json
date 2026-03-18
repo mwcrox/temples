@@ -1,9 +1,11 @@
-{
-    "name": "Louisville Kentucky Temple",
-    "state": "Kentucky",
-    "latitude": 38.327222,
-    "longitude": -85.472778,
-    "visitStatus": "Not Visited",
-    "imageUrl": "",
-    "sourceUrl": ""
-}
+[
+    {
+        "name": "Louisville Kentucky Temple",
+        "state": "Kentucky",
+        "city": "Crestwood",
+        "address": "1405 Old Cedar Grove Rd, Crestwood, KY 40014",
+        "visitStatus": "Not Visited",
+        "imageUrl": "",
+        "sourceUrl": ""
+    }
+]

@@ -2,8 +2,8 @@
     {
         "name": "Honolulu Hawaii Temple",
         "state": "Hawaii",
-        "latitude": 21.333611,
-        "longitude": -157.869444,
+        "city": "Honolulu",
+        "address": "Not Announced",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -11,8 +11,8 @@
     {
         "name": "Kahului Hawaii Temple",
         "state": "Hawaii",
-        "latitude": null,
-        "longitude": null,
+        "city": "Kahului",
+        "address": "1300 Maui Lani Pkwy, Kahului, HI 96732",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -20,8 +20,8 @@
     {
         "name": "Kona Hawaii Temple",
         "state": "Hawaii",
-        "latitude": 19.640833,
-        "longitude": -155.996944,
+        "city": "Kailua-Kona",
+        "address": "75-230 Kalani St, Kailua-Kona, HI 96740",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
@@ -29,8 +29,8 @@
     {
         "name": "Laie Hawaii Temple",
         "state": "Hawaii",
-        "latitude": 21.641944,
-        "longitude": -157.922778,
+        "city": "Laie",
+        "address": "55-600 Naniloa Loop, Laie, HI 96762",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""
