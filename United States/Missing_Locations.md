@@ -10,6 +10,7 @@ The following temples currently have **null latitude and/or longitude values**.
 
 ## Arizona
 - Flagstaff Arizona Temple
+- Queen Creek Arizona Temple
 - Yuma Arizona Temple
 
 ## California

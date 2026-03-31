@@ -23,8 +23,8 @@
         "city": "Gilbert",
         "address": "3301 S Greenfield Rd, Gilbert, AZ 85297",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/Gilbert_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/gilbert-arizona-temple-images?lang=eng"
     },
     {
         "name": "Mesa Arizona Temple",
@@ -32,8 +32,8 @@
         "city": "Mesa",
         "address": "101 S LeSueur, Mesa, AZ 85204",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/mesa_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/mesa-arizona-temple-images?lang=eng"
     },
     {
         "name": "Phoenix Arizona Temple",
@@ -41,8 +41,8 @@
         "city": "Phoenix",
         "address": "5220 W Pinnacle Peak Rd, Phoenix, AZ 85310",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/phoenix_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/phoenix-arizona-temple-images?lang=eng"
     },
     {
         "name": "Queen Creek Arizona Temple",
@@ -59,8 +59,8 @@
         "city": "Snowflake",
         "address": "1875 W Canyon Dr, Snowflake, AZ 85937",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/snowflake_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/snowflake-arizona-temple-images?lang=eng"
     },
     {
         "name": "Tucson Arizona Temple",
@@ -68,8 +68,8 @@
         "city": "Tucson",
         "address": "7281 North Skyline Dr, Tucson, AZ 85718",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/tucson_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/tucson-arizona-temple-images?lang=eng"
     },
     {
         "name": "Yuma Arizona Temple",
