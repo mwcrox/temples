@@ -23,8 +23,8 @@
         "city": "Fresno",
         "address": "1123 E Alluvial Ave, Fresno, CA 93720",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/fresno_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/fresno-california-temple-images?lang=eng"
     },
     {
         "name": "Los Angeles California Temple",
@@ -32,8 +32,8 @@
         "city": "Los Angeles",
         "address": "10777 Santa Monica Blvd, Los Angeles, CA 90025",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/los_angeles_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/los-angeles-california-temple-images?lang=eng"
     },
     {
         "name": "Modesto California Temple",
@@ -50,8 +50,8 @@
         "city": "Newport Beach",
         "address": "2300 Bonita Canyon Dr, Newport Beach, CA 92660",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/newport_beach_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/newport-beach-california-temple-images?lang=eng"
     },
     {
         "name": "Oakland California Temple",
@@ -59,8 +59,8 @@
         "city": "Oakland",
         "address": "4770 Lincoln Ave, Oakland, CA 94602",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/oakland_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/oakland-california-temple-images?lang=eng"
     },
     {
         "name": "Redlands California Temple",
@@ -68,8 +68,8 @@
         "city": "Redlands",
         "address": "1761 Fifth Ave, Redlands, CA 92374",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/redlands_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/redlands-california-temple-images?lang=eng"
     },
     {
         "name": "Sacramento California Temple",
@@ -77,8 +77,8 @@
         "city": "Rancho Cordova",
         "address": "2110 California Cir, Rancho Cordova, CA 95742",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/sacramento_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/sacramento-california-temple-images?lang=eng"
     },
     {
         "name": "San Diego California Temple",
@@ -86,8 +86,8 @@
         "city": "San Diego",
         "address": "7474 Charmant Dr, San Diego, CA 92122",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/san_diego_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/san-diego-california-temple-images?lang=eng"
     },
     {
         "name": "Sunnyvale California Temple",

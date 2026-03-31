@@ -14,6 +14,7 @@ The following temples currently have **null latitude and/or longitude values**.
 - Yuma Arizona Temple
 
 ## California
+- Bakersfield California Temple
 - Feather River California Temple
 - Modesto California Temple
 - Sunnyvale California Temple
