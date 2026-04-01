@@ -20,6 +20,9 @@ The following temples currently have **null latitude and/or longitude values**.
 - Sunnyvale California Temple
 - Yorba Linda California Temple
 
+## Colorado
+- Grand Junction Colorado Temple
+
 ## Florida
 - Tallahassee Florida Temple
 
@@ -28,6 +31,9 @@ The following temples currently have **null latitude and/or longitude values**.
 
 ## Idaho
 - Teton River Idaho Temple
+- Caldwell Idaho Temple
+- Coeur d'Alene Idaho Temple
+- Montpelier Idaho Temple
 
 ## Montana
 - Missoula Montana Temple

@@ -5,8 +5,8 @@
         "city": "Davie",
         "address": "3901 SW 154th Ave, Davie, FL 33331",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/fort_lauderdale_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/fort-lauderdale-florida-temple-images?lang=eng"
     },
     {
         "name": "Jacksonville Florida Temple",
@@ -23,8 +23,8 @@
         "city": "Windermere",
         "address": "9000 Windy Ridge Rd, Windermere, FL 34786",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/orlando_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/orlando-florida-temple-images?lang=eng"
     },
     {
         "name": "Tallahassee Florida Temple",
@@ -32,8 +32,8 @@
         "city": "Tallahassee",
         "address": "2440 Papillion Way, Tallahassee, FL 32309",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/tallahassee_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/tallahassee-florida-temple-images?lang=eng"
     },
     {
         "name": "Tampa Florida Temple",

@@ -5,8 +5,8 @@
         "city": "Boise",
         "address": "1211 S Cole Rd, Boise, ID 83709",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/boise_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/boise-idaho-temple-images?lang=eng"
     },
     {
         "name": "Burley Idaho Temple",
@@ -41,8 +41,8 @@
         "city": "Idaho Falls",
         "address": "1000 Memorial Dr, Idaho Falls, ID 83402",
         "visitStatus": "Grounds Only",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/idaho_falls_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/idaho-falls-idaho-temple-images?lang=eng"
     },
     {
         "name": "Meridian Idaho Temple",
@@ -50,8 +50,8 @@
         "city": "Meridian",
         "address": "7355 N Linder Rd, Meridian, ID 83646",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/meridian_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/meridian-idaho-temple-images?lang=eng"
     },
     {
         "name": "Montpelier Idaho Temple",
@@ -68,8 +68,8 @@
         "city": "Pocatello",
         "address": "3100 Butte St, Pocatello, ID 83201",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/pocatello_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/pocatello-idaho-temple-images?lang=eng"
     },
     {
         "name": "Rexburg Idaho Temple",
@@ -77,8 +77,8 @@
         "city": "Rexburg",
         "address": "750 S 2nd E, Rexburg, ID 83440",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/pocatello_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/rexburg-idaho-temple-images?lang=eng"
     },
     {
         "name": "Teton River Idaho Temple",
@@ -95,7 +95,7 @@
         "city": "Twin Falls",
         "address": "1405 Eastland Dr N, Twin Falls, ID 83301",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/twin_falls_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/twin-falls-idaho-temple-images?lang=eng"
     }
 ]

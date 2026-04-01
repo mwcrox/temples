@@ -23,8 +23,8 @@
         "city": "Kailua-Kona",
         "address": "75-230 Kalani St, Kailua-Kona, HI 96740",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/kona_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/kona-hawaii-temple-images?lang=eng"
     },
     {
         "name": "Laie Hawaii Temple",
@@ -32,7 +32,7 @@
         "city": "Laie",
         "address": "55-600 Naniloa Loop, Laie, HI 96762",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/laie_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/laie-hawaii-temple-images?lang=eng"
     }
 ]

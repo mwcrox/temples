@@ -14,8 +14,8 @@
         "city": "Centennial",
         "address": "2001 E Phillips Cir, Centennial, CO 80122",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/denver_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/denver-colorado-temple-images?lang=eng"
     },
     {
         "name": "Fort Collins Colorado Temple",
@@ -23,8 +23,8 @@
         "city": "Fort Collins",
         "address": "2180 Majestic Dr, Fort Collins, CO 80528",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/fort_collins_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/fort-collins-colorado-temple-images?lang=eng"
     },
     {
         "name": "Grand Junction Colorado Temple",

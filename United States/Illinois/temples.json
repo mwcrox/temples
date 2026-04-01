@@ -5,8 +5,8 @@
         "city": "Glenview",
         "address": "4151 W Lake Ave, Glenview, IL 60026",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/chicago_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/chicago-illinois-temple-images?lang=eng"
     },
     {
         "name": "Nauvoo Illinois Temple",
@@ -14,7 +14,7 @@
         "city": "Nauvoo",
         "address": "50 N Wells St, Nauvoo, IL 62354",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/nauvoo_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/nauvoo-illinois-temple-images?lang=eng"
     }
 ]
