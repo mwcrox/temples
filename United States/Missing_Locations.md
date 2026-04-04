@@ -1,6 +1,6 @@
 # Null Temple Coordinates Report
 
-The following temples currently have **null latitude and/or longitude values**.
+The following temples currently have **Not Announced** for the address.
 
 ## Alabama
 - Huntsville Alabama Temple
@@ -23,9 +23,6 @@ The following temples currently have **null latitude and/or longitude values**.
 ## Colorado
 - Grand Junction Colorado Temple
 
-## Florida
-- Tallahassee Florida Temple
-
 ## Hawaii
 - Kahului Hawaii Temple
 
@@ -35,8 +32,36 @@ The following temples currently have **null latitude and/or longitude values**.
 - Coeur d'Alene Idaho Temple
 - Montpelier Idaho Temple
 
+## Kansas
+- Wichita Kansas Temple
+
 ## Montana
 - Missoula Montana Temple
 
+## Nevada
+- Lone Mountain Nevada Temple
+
+## Oregon
+- Willamette Valley Oregon Temple
+
+## Texas
+- Fairview Texas Temple
+- Fort Worth Texas Temple
+- Lubbock Texas Temple
+
+## Utah
+- Heber Valley Utah Temple
+- Lehi Utah Temple
+- Price Utah Temple
+- Spanish Fork Utah Temple
+- West Jordan Utah Temple
+
 ## Virginia
 - Roanoke Virginia Temple
+- Norfolk Virginia Temple
+
+## Washington
+- Moses Lake Washington Temple
+
+## Wyoming
+- Cody Wyoming Temple

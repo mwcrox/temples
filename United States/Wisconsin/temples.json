@@ -2,8 +2,8 @@
     {
         "name": "Milwaukee Wisconsin Temple",
         "state": "Wisconsin",
-        "latitude": 43.060556,
-        "longitude": -88.106389,
+        "city": "Pewaukee",
+        "address": "10350 N 124th St, Pewaukee, WI 53072",
         "visitStatus": "Not Visited",
         "imageUrl": "",
         "sourceUrl": ""

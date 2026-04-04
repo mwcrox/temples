@@ -2,8 +2,8 @@
     {
         "name": "Boston Massachusetts Temple",
         "state": "Massachusetts",
-        "latitude": 42.395000,
-        "longitude": -71.176667,
+        "city": "Belmont",
+        "address": "100 Hinckley Way, Belmont, MA 02478",
         "visitStatus": "Not Visited",
         "imageUrl": "photos/boston_temple.jpeg",
         "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/boston-massachusetts-temple-images?lang=eng"
