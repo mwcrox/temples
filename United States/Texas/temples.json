@@ -14,8 +14,8 @@
         "city": "Dallas",
         "address": "6363 Willow Ln, Dallas, TX 75230",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/dallas_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/dallas-texas-temple-images?lang=eng"
     },
     {
         "name": "El Paso Texas Temple",
@@ -59,8 +59,8 @@
         "city": "Houston",
         "address": "15725 Champion Forest Dr, Houston, TX 77069",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/houston_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/houston-texas-temple-images?lang=eng"
     },
     {
         "name": "Lubbock Texas Temple",
@@ -68,8 +68,8 @@
         "city": "Lubbock",
         "address": "Not Announced",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/lubbock_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/lubbock-texas-temple-images?lang=eng"
     },
     {
         "name": "McAllen Texas Temple",
@@ -77,8 +77,8 @@
         "city": "McAllen",
         "address": "1200 Trenton Rd, McAllen, TX 78504",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/mcallen_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/mcallen-texas-temple-images?lang=eng"
     },
     {
         "name": "San Antonio Texas Temple",
@@ -86,7 +86,7 @@
         "city": "San Antonio",
         "address": "20080 Stone Oak Pkwy, San Antonio, TX 78258",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/san_antonio_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/san-antonio-texas-temple-images?lang=eng"
     }
 ]

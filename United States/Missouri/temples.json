@@ -5,8 +5,8 @@
         "city": "Kansas City",
         "address": "7001 Searcy Creek Pkwy, Kansas City, MO 64119",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/kansas_city_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/kansas-city-missouri-temple-images?lang=eng"
     },
     {
         "name": "Springfield Missouri Temple",
@@ -23,7 +23,7 @@
         "city": "Town and Country",
         "address": "12555 N Outer Forty Rd, Town and Country, MO 63017",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/st_louis_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/st-louis-missouri-temple-images?lang=eng"
     }
 ]

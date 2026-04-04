@@ -5,8 +5,8 @@
         "city": "Albuquerque",
         "address": "10300 San Francisco Rd NE, Albuquerque, NM 87122",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/albuquerque_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/albuquerque-new-mexico-temple-images?lang=eng"
     },
     {
         "name": "Farmington New Mexico Temple",
@@ -14,7 +14,7 @@
         "city": "Farmington",
         "address": "4400 College Blvd, Farmington, NM 87402",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/farmington_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/farmington-new-mexico-temple-images?lang=eng"
     }
 ]

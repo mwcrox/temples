@@ -14,8 +14,8 @@
         "city": "Philadelphia",
         "address": "1739 Vine St, Philadelphia, PA 19103",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/philadelphia_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/philadelphia-pennsylvania-temple-images?lang=eng"
     },
     {
         "name": "Pittsburgh Pennsylvania Temple",
@@ -23,7 +23,7 @@
         "city": "Pittsburgh",
         "address": "2093 Powell Rd, Pittsburgh, PA 15243",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/pittsburgh_temple.png",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/Pittsburgh-pennsylvania-temple-images?lang=eng"
     }
 ]

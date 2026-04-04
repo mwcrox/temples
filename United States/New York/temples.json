@@ -5,8 +5,8 @@
         "city": "New York",
         "address": "125 Columbus Ave, New York, NY 10023",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/manhattan_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/manhattan-new-york-temple-images?lang=eng"
     },
     {
         "name": "Palmyra New York Temple",
@@ -14,7 +14,7 @@
         "city": "Palmyra",
         "address": "2720 Temple Rd, Palmyra, NY 14522",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/palmyra_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/palmyra-new-york-temple-images?lang=eng"
     }
 ]

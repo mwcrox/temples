@@ -14,8 +14,8 @@
         "city": "Las Vegas",
         "address": "827 Temple View Dr, Las Vegas, NV 89110",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/las_vegas_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/las-vegas-nevada-temple-images?lang=eng"
     },
     {
         "name": "Lone Mountain Nevada Temple",
@@ -32,7 +32,7 @@
         "city": "Reno",
         "address": "2200 Temple Hill Dr, Reno, NV 89523",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
+        "imageUrl": "photos/reno_temple.jpeg",
         "sourceUrl": ""
     }
 ]

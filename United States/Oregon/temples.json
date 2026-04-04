@@ -5,8 +5,8 @@
         "city": "Central Point",
         "address": "2760 Biddle Rd, Central Point, OR 97502",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/medford_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/medford-oregon-temple-images?lang=eng"
     },
     {
         "name": "Portland Oregon Temple",
@@ -14,8 +14,8 @@
         "city": "Lake Oswego",
         "address": "13600 Kruse Oaks Blvd, Lake Oswego, OR 97035",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/portland_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/portland-oregon-temple-images?lang=eng"
     },
     {
         "name": "Willamette Valley Oregon Temple",

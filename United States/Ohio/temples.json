@@ -23,7 +23,16 @@
         "city": "Columbus",
         "address": "3870 Gateway Blvd, Columbus, OH 43228",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/temple_columbus.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/columbus-ohio-temple-images?lang=eng"
+    },
+    {
+        "name": "Kirtland Ohio Temple",
+        "state": "Ohio",
+        "city": "Kirtland",
+        "address": "9020 Chillicothe Road,Kirtland, Ohio  44094",
+        "visitStatus": "Visited",
+        "imageUrl": "photos/kirtland_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/kirtland-ohio-temple-images?lang=eng"
     }
 ]

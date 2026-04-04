@@ -5,8 +5,8 @@
         "city": "Billings",
         "address": "3100 Rim Point Dr, Billings, MT 59102",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/billings_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/billings-montana-temple-images?lang=eng"
     },
     {
         "name": "Helena Montana Temple",
@@ -14,8 +14,8 @@
         "city": "Helena",
         "address": "3310 Wylie Dr, Helena, MT 59602",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/helena_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/helena-montana-temple-images?lang=eng"
     },
     {
         "name": "Missoula Montana Temple",

@@ -5,8 +5,8 @@
         "city": "Yukon",
         "address": "12030 N Mustang Rd, Yukon, OK 73099",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/oklahoma_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/oklahoma-city-oklahoma-temple-images?lang=eng"
     },
     {
         "name": "Tulsa Oklahoma Temple",

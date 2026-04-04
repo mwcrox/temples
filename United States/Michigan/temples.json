@@ -5,8 +5,8 @@
         "city": "Bloomfield Hills",
         "address": "25225 Telegraph Rd, Bloomfield Hills, MI 48302",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/detroit_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/detroit-michigan-temple-images?lang=eng"
     },
     {
         "name": "Grand Rapids Michigan Temple",

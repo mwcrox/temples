@@ -5,8 +5,8 @@
         "city": "Richland",
         "address": "300 Gage Blvd, Richland, WA 99352",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/columbia_river_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/columbia-river-washington-temple-images?lang=eng"
     },
     {
         "name": "Moses Lake Washington Temple",
@@ -14,8 +14,8 @@
         "city": "Moses Lake",
         "address": "Not Announced",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/moses_lake_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/moses-lake-washington-temple-images?lang=eng"
     },
     {
         "name": "Seattle Washington Temple",
@@ -23,8 +23,8 @@
         "city": "Bellevue",
         "address": "2808 148th Ave SE, Bellevue, WA 98007",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/seattle_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/seattle-washington-temple-images?lang=eng"
     },
     {
         "name": "Spokane Washington Temple",
@@ -32,8 +32,8 @@
         "city": "Spokane",
         "address": "13710 E 40th Ave, Spokane, WA 99206",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/spokane_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/spokane-washington-temple-images?lang=eng"
     },
     {
         "name": "Tacoma Washington Temple",

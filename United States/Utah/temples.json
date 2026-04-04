@@ -5,8 +5,8 @@
         "city": "Bountiful",
         "address": "640 S Bountiful Blvd, Bountiful, UT 84010",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/bountiful_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/bountiful-utah-temple-images?lang=eng"
     },
     {
         "name": "Brigham City Utah Temple",
@@ -14,8 +14,8 @@
         "city": "Brigham City",
         "address": "250 S Main St, Brigham City, UT 84302",
         "visitStatus": "Grounds Only",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/brigham_city_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/brigham-city-utah-temple-images?lang=eng"
     },
     {
         "name": "Cedar City Utah Temple",
@@ -23,8 +23,8 @@
         "city": "Cedar City",
         "address": "280 South Cove Dr, Cedar City, UT 84720",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/cedar_city_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/cedar-city-utah-temple-images?lang=eng"
     },
     {
         "name": "Deseret Peak Utah Temple",
@@ -32,8 +32,8 @@
         "city": "Tooele",
         "address": "2401 N 400 W, Tooele, UT 84074",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/deseret_peak_temple.png",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/deseret-peak-utah-temple-imges?lang=eng"
     },
     {
         "name": "Draper Utah Temple",
@@ -41,8 +41,8 @@
         "city": "Draper",
         "address": "14065 Canyon Vista Ln, Draper, UT 84020",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/draper_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/draper-utah-temple-images?lang=eng"
     },
     {
         "name": "Ephraim Utah Temple",
@@ -59,8 +59,8 @@
         "city": "Heber Valley",
         "address": "Not Announced",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/heber_valley_temple.png",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/heber-valley-utah-temple-images?lang=eng"
     },
     {
         "name": "Jordan River Utah Temple",
@@ -68,8 +68,8 @@
         "city": "South Jordan",
         "address": "10200 S Temple Drive, South Jordan, UT 84095",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/jordan_river_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/jordan-river-utah-temple-images?lang=eng"
     },
     {
         "name": "Layton Utah Temple",
@@ -77,8 +77,8 @@
         "city": "Layton",
         "address": "1400 Oak Hills Dr, Layton, UT 84040",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/layton_temple.png",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/layton-utah-temple-images?lang=eng"
     },
     {
         "name": "Lehi Utah Temple",
@@ -104,8 +104,8 @@
         "city": "Logan",
         "address": "175 N 300 E, Logan, UT 84321",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/logan_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/logan-utah-temple-images?lang=eng"
     },
     {
         "name": "Manti Utah Temple",
@@ -113,8 +113,8 @@
         "city": "Manti",
         "address": "200 E 510 N, Manti, UT 84642",
         "visitStatus": "Grounds Only",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/manti_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/manti-utah-temple-images?lang=eng"
     },
     {
         "name": "Monticello Utah Temple",
@@ -122,8 +122,8 @@
         "city": "Monticello",
         "address": "365 N Main St, Monticello, UT 84535",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/monticello_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/monticello-utah-temple-images?lang=eng"
     },
     {
         "name": "Mount Timpanogos Utah Temple",
@@ -131,8 +131,8 @@
         "city": "American Fork",
         "address": "742 N 900 E, American Fork, UT 84003",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/mount_timpanogos_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/mount-timpanogos-utah-temple-images?lang=eng"
     },
     {
         "name": "Ogden Utah Temple",
@@ -140,8 +140,8 @@
         "city": "Ogden",
         "address": "350 22nd St, Ogden, UT 84401",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/ogden_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/ogden-utah-temple-images?lang=eng"
     },
     {
         "name": "Oquirrh Mountain Utah Temple",
@@ -149,8 +149,8 @@
         "city": "South Jordan",
         "address": "11022 S 4000 W, South Jordan, UT 84009",
         "visitStatus": "Grounds Only",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/oquirrh_mountain_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/oquirrh-mountain-utah-temple-images?lang=eng"
     },
     {
         "name": "Orem Utah Temple",
@@ -158,8 +158,8 @@
         "city": "Orem",
         "address": "1451 S 1100 W, Orem, UT 84058",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/orem_temple.png",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/orem-utah-temple-images?lang=eng"
     },
     {
         "name": "Payson Utah Temple",
@@ -167,8 +167,8 @@
         "city": "Payson",
         "address": "1494 S 930 W, Payson, UT 84651",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/temples_payson.png",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/payson-utah-temple-images?lang=eng"
     },
     {
         "name": "Price Utah Temple",
@@ -185,8 +185,8 @@
         "city": "Provo",
         "address": "50 South University Ave, Provo, UT 84601",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/provo_city_center_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/provo-city-center-utah-temple-images?lang=eng"
     },
     {
         "name": "Provo Utah Rock Canyon Temple",
@@ -194,8 +194,8 @@
         "city": "Provo",
         "address": "2200 Temple Hill Dr, Provo, UT 84604",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/provo_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/provo-utah-temple-images?lang=eng"
     },
     {
         "name": "Red Cliffs Utah Temple",
@@ -203,8 +203,8 @@
         "city": "St. George",
         "address": "1555 S Red Cliffs Temple Ln, St. George, UT 84790",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/red_cliffs_temple.png",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/red-cliffs-utah-temple-images?lang=eng"
     },
     {
         "name": "Salt Lake Temple",
@@ -212,8 +212,8 @@
         "city": "Salt Lake City",
         "address": "50 N Temple, Salt Lake City, UT 84150",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/salt_lake_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/salt-lake-utah-temple-images?lang=eng"
     },
     {
         "name": "Saratoga Springs Utah Temple",
@@ -221,8 +221,8 @@
         "city": "Saratoga Springs",
         "address": "987 South Ensign Drive, Saratoga Springs, UT 84045",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/saratoga_springs_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/saratoga-springs-utah-temple-images?lang=eng"
     },
     {
         "name": "Smithfield Utah Temple",
@@ -248,8 +248,8 @@
         "city": "St. George",
         "address": "250 E 400 S, St. George, UT 84770",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/st_george_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/st-george-utah-temple-images?lang=eng"
     },
     {
         "name": "Syracuse Utah Temple",
@@ -258,7 +258,7 @@
         "address": "1098 South 2500 West, Syracuse, UT 84075",
         "visitStatus": "Visited",
         "imageUrl": "",
-        "sourceUrl": ""
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/Taylorsville-utah-temple-images?lang=eng"
     },
     {
         "name": "Taylorsville Utah Temple",
@@ -266,8 +266,8 @@
         "city": "Taylorsville",
         "address": "2603 W 4700 S, Taylorsville, UT 84129",
         "visitStatus": "Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/taylorsville_temple.png",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/Taylorsville-utah-temple-images?lang=eng"
     },
     {
         "name": "Vernal Utah Temple",
@@ -275,8 +275,8 @@
         "city": "Vernal",
         "address": "170 S 500 W, Vernal, UT 84078",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/vernal_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/vernal-utah-temple-images?lang=eng"
     },
     {
         "name": "West Jordan Utah Temple",

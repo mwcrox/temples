@@ -14,8 +14,8 @@
         "city": "Glen Allen",
         "address": "10915 Staples Mill Rd, Glen Allen, VA 23060",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/richmond_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/richmond-virginia-temple-images?lang=eng"
     },
     {
         "name": "Roanoke Virginia Temple",

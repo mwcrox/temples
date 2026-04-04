@@ -5,8 +5,8 @@
         "city": "Columbia",
         "address": "2905 Trotter Rd, Columbia, SC 29203",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/columbia_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/columbia-south-carolina-temple-images?lang=eng"
     },
     {
         "name": "Greenville South Carolina Temple",

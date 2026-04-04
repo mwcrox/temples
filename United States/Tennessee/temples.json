@@ -14,8 +14,8 @@
         "city": "Bartlett",
         "address": "2766 Kirby Whitten Rd, Bartlett, TN 38134",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/memphis_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/memphis-tennessee-temple-images?lang=eng"
     },
     {
         "name": "Nashville Tennessee Temple",
@@ -23,7 +23,7 @@
         "city": "Franklin",
         "address": "1100 Gray Fox Ln, Franklin, TN 37069",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/nashville_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/nashville-tennessee-temple-images?lang=eng"
     }
 ]

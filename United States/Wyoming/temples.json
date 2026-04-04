@@ -5,8 +5,8 @@
         "city": "Casper",
         "address": "1851 E 12th St, Casper, WY 82601",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/casper_temple.png",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/casper-wyoming-temple-images?lang=eng"
     },
     {
         "name": "Cody Wyoming Temple",
@@ -23,7 +23,7 @@
         "city": "Afton",
         "address": "885 W 200 N, Afton, WY 83110",
         "visitStatus": "Not Visited",
-        "imageUrl": "",
-        "sourceUrl": ""
+        "imageUrl": "photos/star_valley_temple.jpeg",
+        "sourceUrl": "https://www.churchofjesuschrist.org/media/collection/star-valley-wyoming-temple-images?lang=eng"
     }
 ]
